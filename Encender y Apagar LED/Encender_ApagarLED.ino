@@ -1,5 +1,5 @@
 int ledPin = 8
-int Pause = 1000
+int pause = 1000
 
 void setup() {
   // put your setup code here, to run once:
